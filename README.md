@@ -1,3 +1,10 @@
+* [Video Introduction](#video-introduction)
+* [Screenshot](#screenshot)
+* [Installation](iInstallation)
+* [Diagram examples](#diagram-examples)
+* [License](#license)
+* [Author](#author)
+
 Have you ever asked yourself these questions?
 
 * Where does my computing time go?
@@ -5,13 +12,6 @@ Have you ever asked yourself these questions?
 * Is it the Code or the content?
 
 Use this MediaWiki Extension to find out. It will show you detailed diagrams of which functions, classes, methods or content fractions (wikiScript!) are eating your performance.
-
-* [Video Introduction](#video-introduction)
-* [Screenshot](#screenshot)
-* [Installation](iInstallation)
-* [Diagram examples](#diagram-examples)
-* [License](#license)
-* [Author](#author)
 
 # Video Introduction
 
