@@ -35,7 +35,8 @@ require_once( "$IP/extensions/PerformanceMonitor/PerformanceMonitor.php" );
 // PerformanceMonitor: Don't forget to adapt StartProfiler.php!!!
 $egPerformanceMonitorServerName = "Propellerbook"; // whatever is the name of your server
 $egPerformanceMonitorExtensionPath = "/Applications/MAMP/htdocs/mediawiki-1.20.8/extensions/PerformanceMonitor/";
-$egPerformanceMonitorLogfilesPath = "/Applications/MAMP/htdocs/mediawiki-1.20.8/logs/autologs/"; // make sure to configure this folder writable your server```
+$egPerformanceMonitorLogfilesPath = "/Applications/MAMP/htdocs/mediawiki-1.20.8/logs/autologs/"; // make sure to configure this folder writable your server
+```
 
 # Diagram examples
 
