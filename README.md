@@ -30,7 +30,8 @@ For detailed diagrams that show the differences between different (e.g. cached a
 
 See <a href="https://www.mediawiki.org/wiki/Extension:PerformanceMonitor"><img width="20" height="20" src="https://www.mediawiki.org/static/images/project-logos/mediawikiwiki.png"> Extension:PerformanceMonitor</a> for detailed information on download and installation.
 
-```// include the Extension:
+```
+// include the Extension:
 require_once( "$IP/extensions/PerformanceMonitor/PerformanceMonitor.php" );
 // PerformanceMonitor: Don't forget to adapt StartProfiler.php!!!
 $egPerformanceMonitorServerName = "Propellerbook"; // whatever is the name of your server
