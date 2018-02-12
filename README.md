@@ -24,20 +24,11 @@ Video: SMWCon Fall 2014 in Vienna, Achim Bode, Introducing Performance Monitor
 Screenshot Performance Monitor
 ![Screenshot Performance Monitor](./assets/Screenshot Performance Monitor.jpg)
 
-For detailed diagrams that show the differences between different (e.g. cached and non-cached) scenarios, see below.
+For detailed diagrams that show the differences between different (e.g. cached and non-cached) scenarios, see the [Diagram examples](#diagram-examples) below.
 
 # Installation
 
 See <a href="https://www.mediawiki.org/wiki/Extension:PerformanceMonitor"><img width="20" height="20" src="https://www.mediawiki.org/static/images/project-logos/mediawikiwiki.png"> Extension:PerformanceMonitor</a> for detailed information on download and installation.
-
-```
-// include the Extension:
-require_once( "$IP/extensions/PerformanceMonitor/PerformanceMonitor.php" );
-// PerformanceMonitor: Don't forget to adapt StartProfiler.php!!!
-$egPerformanceMonitorServerName = "Propellerbook"; // whatever is the name of your server
-$egPerformanceMonitorExtensionPath = "/Applications/MAMP/htdocs/mediawiki-1.20.8/extensions/PerformanceMonitor/";
-$egPerformanceMonitorLogfilesPath = "/Applications/MAMP/htdocs/mediawiki-1.20.8/logs/autologs/"; // make sure to configure this folder writable your server
-```
 
 # Diagram examples
 
